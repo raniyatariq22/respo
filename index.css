@@ -1509,7 +1509,7 @@
   overflow: hidden;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 500px) {
   .generate-with-ai {
     font-size: 50px;
     line-height: 50px; 
